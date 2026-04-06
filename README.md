@@ -1,4 +1,4 @@
-# Support-Ticket-Investigation
+# Support-Ticket-Analysis
 In this project I created a relational database using PostgreSQL to model a SaaS application support helpdesk system, I designed and analysed the database to demonstrate my SQL skills.
 
 ## Project Overview
